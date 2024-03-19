@@ -1,0 +1,25 @@
+.darksalmon{
+  color:darksalmon
+}
+
+.indianred{
+    color:indianred
+}
+
+.experience_education_icon{
+    color:coral
+}
+
+.experience_education_icon:hover{
+    background-color: coral;
+    color:white;
+}
+
+
+
+body {
+    font-family: 'Noto Sans TC', sans-serif;
+    }
+    h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: 'Noto Serif TC', sans-serif;
+    }
