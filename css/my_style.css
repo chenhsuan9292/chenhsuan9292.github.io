@@ -2,6 +2,13 @@
   color:darksalmon
 }
 
+
+.darkgreen{
+  color:darkgreen
+}
+
+
+
 .indianred{
     color:indianred
 }
@@ -15,7 +22,10 @@
     color:white;
 }
 
-
+*{
+    letter-spacing: 0.8px;
+    line-height: 1.5em;
+}
 
 body {
     font-family: 'Noto Sans TC', sans-serif;
