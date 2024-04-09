@@ -53,3 +53,32 @@ body {
         letter-spacing: 0.8px;
         line-height: 1.5em;
     }
+
+
+    table.catherinetable th{
+        text-align: center;
+        background-color: pink;
+        color: black;
+        border: 10px solid  cadetblue ;
+    }
+
+    table.catherinetable td{
+        text-align: center;
+        border: 10px solid  plum ;
+        color: black;
+    }
+
+    table.catherinetable{
+        width: 100%;
+        background-color: mistyrose;
+        border-collapse: separate;
+    }
+
+    table.catherinetable tr:nth-child(even){
+        background-color: peachpuff;
+    }
+
+    table.catherinetable tr:nth-child(odd){
+        background-color: lightpink;
+    }
+     
