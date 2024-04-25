@@ -22,12 +22,15 @@
 }
 
 .experience_education_icon{
-    color:coral
+    color:cadetblue
+    
 }
 
 .experience_education_icon:hover{
-    background-color: coral;
+    background-color: cadetblue;
     color: aliceblue;
+    border-radius: 0.5rem;
+    
 }
 
 *{
@@ -97,4 +100,16 @@ body {
         font-style: italic;
       }
       
-    
+    .herodown{
+        font-size: 40px;
+        color: cadetblue;
+    }
+
+    .img-fluid{
+        max-width: 80%; 
+        height: auto;
+    }
+
+    .border{
+        border-radius: 0.5rem;
+    }
