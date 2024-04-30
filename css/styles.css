@@ -10954,7 +10954,6 @@ section.resume-section {
   padding-right: 1rem;
   padding-top: 5rem;
   padding-bottom: 5rem;
-  max-width: 75rem;
 }
 section.resume-section .resume-section-content {
   width: 100%;
@@ -10974,17 +10973,3 @@ section.resume-section .resume-section-content {
   }
 }
 
-
-.image-container {
-  width: 780px; /* 调整宽度以适应您的需求 */
-}
-
-.row {
-  display: flex;
-  justify-content: space-between;
-  margin-bottom: 20px;
-}
-
-.row img {
-  width: calc(50% - 10px); /* 每行图片宽度为一半，减去外边距 */
-}
