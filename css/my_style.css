@@ -134,3 +134,36 @@ body {
     background-position: center;
     opacity: 0.9;
    }
+
+   #education{
+    background-image: url(../assets/img/020.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    opacity: 0.9;
+   }
+
+   #skills{
+    background-image: url(../assets/img/010.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    opacity: 0.9;
+   }
+
+   #contact{
+    background-image: url(../assets/img/010.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    opacity: 0.9;
+   }
+
+   .black{
+    color: black;
+   }
+
+   .gray{
+    color: rgb(96, 95, 95);
+    font-size: 15px;
+   }
