@@ -18,6 +18,21 @@
     font-size: 40px;
    
 }
+.ccc{
+    color:cadetblue;
+    text-transform: none;
+    font-size: 20px;
+}
+
+.rectangle {
+    background-color: rgba(250, 207, 213, 0.5); /* 微透明的淺粉色 */
+    padding: 30px; /* 内边距 */
+    border-radius: 10px; /* 圆角半径 */
+    width: 1000px
+}
+
+
+
 
 .indianred{
     color:indianred
