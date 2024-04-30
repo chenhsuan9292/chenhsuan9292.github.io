@@ -1,7 +1,9 @@
 .darksalmon{
   color:darksalmon
 }
-
+.ca{
+    color: cadetblue
+}
 .pink{
     color: lightpink
 }
@@ -110,6 +112,4 @@ body {
         height: auto;
     }
 
-    .border{
-        border-radius: 0.5rem;
-    }
+   

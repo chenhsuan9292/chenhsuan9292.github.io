@@ -10973,3 +10973,18 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+
+.image-container {
+  width: 780px; /* 调整宽度以适应您的需求 */
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.row img {
+  width: calc(50% - 10px); /* 每行图片宽度为一半，减去外边距 */
+}
